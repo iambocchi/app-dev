@@ -8,13 +8,13 @@ My first repository
 
 Eternal Sunshine of the Spotless Mind (2004)
 
+When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories forever.
+
+
 Here's why i like this movie:
 * i like it
 * it makes me cry
 * make me happy :smile:
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people who have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
