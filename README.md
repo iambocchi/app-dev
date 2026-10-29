@@ -4,7 +4,9 @@ My first repository
 <!-- ABOUT THE PROJECT -->
 ## A Movie That I Like
 
-![Eternal Sunshine of the Spotless Mind](eternal.jpg)
+<p align="center">
+  <img src="eternal.jpg" alt="Eternal Sunshine of the Spotless Mind">
+</p>
 
 Eternal Sunshine of the Spotless Mind (2004)
 
@@ -16,5 +18,3 @@ Here's why i like this movie:
 * it makes me cry
 * make me happy :smile:
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
