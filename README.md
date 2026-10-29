@@ -4,7 +4,7 @@ My first repository
 <!-- ABOUT THE PROJECT -->
 ## A Movie That I Like
 
-[![Eternal Sunshine Poster](images/poster.jpg)](eternal.jpg)
+![Eternal Sunshine of the Spotless Mind](eternal.jpg)
 
 Eternal Sunshine of the Spotless Mind (2004)
 
