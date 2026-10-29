@@ -4,7 +4,7 @@ My first repository
 <!-- ABOUT THE PROJECT -->
 ## A Movie That I Like
 
-[![Product Name Screen Shot][product-screenshot]](https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_FMjpg_UY2048_.jpg)
+[![Eternal Sunshine Poster](images/poster.jpg)](eternal.jpg)
 
 Eternal Sunshine of the Spotless Mind (2004)
 
